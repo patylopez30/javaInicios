@@ -41,7 +41,7 @@ public class Ejemplo_if {
 		}
 		else {
 			
-			System.out.println("Cuídate");
+			System.out.println("Cuídate por favor");
 			
 		}
 	}
